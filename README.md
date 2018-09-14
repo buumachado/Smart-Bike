@@ -2,7 +2,7 @@
 
 Equipe:
 - Bruna Machado Costa - 371783
-- Daniel
+- Daniel Filho Coelho Ramos - 374921
 - Lais Brandão Gadelha - 378606
 - Rafael Bluhm - 389244
 
