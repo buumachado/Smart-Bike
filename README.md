@@ -15,9 +15,9 @@ Como o nome já diz a smart bike seŕa uma bicicleta inteligente que terá como 
                       Funcionalidades                                                Semanas
         integração sensores com o microprocessador                                 17/09 - 23/09
         integração sensores com o microprocessador                                 24/09 - 30/09
-        integração sensores com o microprocessador                                 01/10 - 07/09
-        Desenvolvimento do aplicativo                                              08/10 - 14/09
-        Desenvolvimento do aplicativo                                              15/10 - 21/09
-        integração aplicativo e microprocessador                                   22/10 - 28/09
+        integração sensores com o microprocessador                                 01/10 - 07/10
+        Desenvolvimento do aplicativo                                              08/10 - 14/10
+        Desenvolvimento do aplicativo                                              15/10 - 21/10
+        integração aplicativo e microprocessador                                   22/10 - 28/10
         Testes e integração com a bicicleta                                        29/10 - 04/11
         
