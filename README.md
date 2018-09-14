@@ -6,7 +6,7 @@ Equipe:
 - Lais Brandão Gadelha - 378606
 - Rafael Bluhm - 389244
 
-Como o nome já diz a smart bike seŕa uma bicicleta inteligente que terá como diferencial:
+Como o nome já diz a smart bike será uma bicicleta inteligente que terá como diferencial:
 - medidor de velocidade e distância percorrida integrado a um aplicativo de celular,
 - sensor de luminosidade para ativar automaticamente luzes conectadas a bicicleta,
 - setas que serão acionadas manualmente,
