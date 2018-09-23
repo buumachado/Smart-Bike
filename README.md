@@ -8,7 +8,7 @@ Equipe:
 
 Como o nome já diz a smart bike será uma bicicleta inteligente que terá como diferencial:
 - medidor de velocidade e distância percorrida integrado a um aplicativo de celular,
-- sensor de luminosidade para ativar automaticamente luzes conectadas a bicicleta,
+- sensor de luminosidade para ativar automaticamente luzes conectadas a bicicleta, [DANIEL]
 - setas que serão acionadas manualmente,
 - conexão com o aplicativo por bluetooth.
 
@@ -21,3 +21,10 @@ Como o nome já diz a smart bike será uma bicicleta inteligente que terá como 
         integração aplicativo e microprocessador                                   22/10 - 28/10
         Testes e integração com a bicicleta                                        29/10 - 04/11
         
+[LISTA DE MATERIAIS]
+
+BREADBOARD
+MÓDULO BLUETOOTH
+4 LEDS - 2 SETAS/LUZ FRONTAL/LUZ TRASEIRA
+MICROCONTROLADOR
+SENSOR LDR 5mm
