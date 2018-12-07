@@ -1,4 +1,4 @@
-## Smart-Bike
+# Smart-Bike
 
 Equipe:
 - Bruna Machado Costa - 371783
@@ -11,7 +11,7 @@ Como o nome já diz a smart bike será uma bicicleta inteligente que terá como 
  Setas que serão acionadas manualmente,
  Conexão com o aplicativo por bluetooth.
         
-# Equipamentos Utilizados
+## Equipamentos Utilizados
 - BreadBoard
 - Módulo Bluetooth
 - 4 leds
@@ -21,13 +21,13 @@ Como o nome já diz a smart bike será uma bicicleta inteligente que terá como 
 - 2 Botões Comutadores simples
 - Reed switch
  
-# Comunicação com os sensores: 
+## Comunicação com os sensores: 
 
 A leitura do sensor Reed Switch e LDR foi feita pelo ADC, que convertia o valor anlógico passado para digital possibilitando a leitura correta do sensor.
 O módulo bluetooth teve sua comunicação feita com a UART.
 Os botões para seta foram ligados simplesmente pelo GPIO.
 
-# Sensores/Módulos Principais
+## Sensores/Módulos Principais
 
 Sensor de luminosidade - o modelo utilizado no projeto foi o LDR(Light Dependent Resistor) de 5mm de diâmetro. Este sensor altera a resistência em seus terminais conforme a luminosidade a que é submetido.
 
@@ -37,6 +37,6 @@ Módulo Bluetooth - utilizado para passar as informações obtidas pelo reed swi
 
 
 
-# Smart Bike App:
+## Smart Bike App:
 
 <img width="274" alt="captura de tela 2018-12-06 as 22 26 18" src="https://user-images.githubusercontent.com/8231241/49622080-d5b38700-f9a6-11e8-99c8-5a59e7476a1e.png">
