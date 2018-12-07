@@ -1,10 +1,11 @@
 # Smart-Bike
 
-Equipe:
+## Equipe:
 - Bruna Machado Costa - 371783
 - Daniel Filho Coelho Ramos - 374921
 - Lais Brandão Gadelha - 378606
 
+## Funcionalidade
 Como o nome já diz a smart bike será uma bicicleta inteligente que terá como diferencial:
  Medidor de velocidade e distância percorrida integrado a um aplicativo de celular,
  Sensor de luminosidade para ativar automaticamente luzes conectadas a bicicleta,
