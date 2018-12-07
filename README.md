@@ -21,12 +21,18 @@ Como o nome já diz a smart bike será uma bicicleta inteligente que terá como 
         integração aplicativo e microprocessador                                   22/10 - 28/10
         Testes e integração com a bicicleta                                        29/10 - 04/11
         
-[LISTA DE MATERIAIS]
+Equipamentos Utilizados
+- BreadBoard
+- Módulo Bluetooth
+- 4 leds
+- Greenpill
+- Sensor LDR 5mm
+- ST-Linkv2
+- 2 Botões Comutadores simples
+- Reed switch
+ 
+Comunicação com os sensores: 
 
-BREADBOARD  - OK  
-MÓDULO BLUETOOTH - COMPRAR    
-4 LEDS - 2 SETAS/LUZ FRONTAL/LUZ TRASEIRA - OK   
-MICROCONTROLADOR  -  OK  
-SENSOR LDR 5mm  -  COMPRAR  
-ST-LINKv2  - OK    
-2 BOTÕES COMUTADORES SIMPLES -(PARA SETAS) OK  
+A leitura do sensor Reed Switch e LDR foi feita pelo ADC, que convertia o valor anlógico passado para digital possibilitando a leitura correta do sensor.
+O módulo bluetooth teve sua comunicação feita com a UART.
+Os botões para seta foram ligados simplesmente pelo GPIO.
