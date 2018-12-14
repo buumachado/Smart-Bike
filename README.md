@@ -40,4 +40,5 @@ Módulo Bluetooth - utilizado para passar as informações obtidas pelo reed swi
 
 ## Smart Bike App:
 
-<img width="274" alt="captura de tela 2018-12-06 as 22 26 18" src="https://user-images.githubusercontent.com/8231241/49622080-d5b38700-f9a6-11e8-99c8-5a59e7476a1e.png">
+![app_smart_bike](https://user-images.githubusercontent.com/43276631/50021434-de641880-ffb7-11e8-9df2-6eb3aeffc1cc.jpeg)
+
